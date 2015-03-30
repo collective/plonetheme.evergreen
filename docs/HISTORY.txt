@@ -1,6 +1,17 @@
 Changelog
 =========
 
+1.3 (unreleased)
+------------------
+
+- Updated Diazo theme zip file [macagua]
+
+- Updated manifest file for diazo theme with preview file [macagua]
+
+- Added more strings classifiers items for this package [macagua]
+
+- Updated information about this package [macagua]
+
 1.2 (2011-07-30)
 ----------------
 - Fixed doctype [giacomos]
