@@ -5,14 +5,14 @@ version='1.2'
 
 setup(
         name='plonetheme.evergreen',
-        description='An installable Diazo theme for Plone 4.1',
+        description='An installable Diazo theme for Plone 4.1 or higher',
         long_description=open('README.rst', 'rb').read()+'\n'+
                          open(os.path.join("docs", "INSTALL.txt")).read()+'\n'+
                          open(os.path.join("docs", "HISTORY.txt")).read(),
         version='1.2',
         author='Giacomo Spettoli',
         author_email='giacomo.spettoli@gmail.com',
-        url='http://svn.plone.org/svn/collective/plonetheme.evergreen',
+        url='https://github.com/giacomos/plonetheme.evergreen',
         packages=find_packages(),
         include_package_data=True,
         namespace_packages=[
@@ -40,9 +40,8 @@ setup(
             "Topic :: Internet",
             "Topic :: Software Development :: Libraries :: Python Modules",
             ],
+        keywords='web zope plone theme diazo',
         entry_points={
             'z3c.autoinclude.plugin': 'target = plone',
             }
         )
-
-
