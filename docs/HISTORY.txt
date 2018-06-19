@@ -4,6 +4,8 @@ Changelog
 1.3 (unreleased)
 ------------------
 
+- Added improvements about README file [macagua]
+
 - Updated Diazo theme zip file [macagua]
 
 - Updated manifest file for diazo theme with preview file [macagua]
