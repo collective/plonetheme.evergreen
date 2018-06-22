@@ -17,7 +17,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="plonetheme.evergreen: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.evergreen Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the plonetheme.evergreen package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
